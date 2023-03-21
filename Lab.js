@@ -273,8 +273,4 @@ console.log('New Total: ', newTotal)
 // CODE HERE
 newTotal = newTotal * 100;
 let savings = newTotal / total;
-console.log(`My savings are %${savings}`)
-
-
-
-
+console.log(`My savings are %${savings}`);
