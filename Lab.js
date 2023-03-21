@@ -269,7 +269,6 @@ console.log('New Total: ', newTotal)
     and our new was 85, then we would be saving 
     15%. 
 */
-
 // CODE HERE
 newTotal = newTotal * 100;
 let savings = newTotal / total;
